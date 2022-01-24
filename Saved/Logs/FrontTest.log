@@ -1567,3 +1567,837 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.24-15.08.35:079][541]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.24-15.08.35:079][541]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.01.24-15.08.35:079][541]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.01.24-15.12.35:150][188]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3664cba0-0b06-455e-ad4a-e69ce61f71b7}.
+[2022.01.24-15.12.35:151][188]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.24-15.12.35:207][188]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.24-15.12.35:207][188]LogAudioMixer: Display: 1: FrontRight
+[2022.01.24-15.14.19:439][499]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7e1ce54d-4f5f-41f3-8f2b-89b49df08ce1}.
+[2022.01.24-15.14.19:439][499]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.24-15.14.19:461][499]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.24-15.14.19:461][499]LogAudioMixer: Display: 1: FrontRight
+[2022.01.24-15.19.53:705][549]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-NF4JNPH
+[2022.01.24-15.19.56:694][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.01.24-15.20.16:401][703]LogTurnkeySupport: Project requires temp target (PixelStreaming plugin is enabled)
+[2022.01.24-15.20.16:401][703]LogLauncherProfile: Unable to use promoted target - C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/Binaries/Win64/UnrealGame.target does not exist.
+[2022.01.24-15.20.16:441][703]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""F:/IntereFX/UE_5.0EA/Engine/Build/BatchFiles/RunUAT.bat" -ScriptsForProject="C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/FrontTest.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -project="C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/FrontTest.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -cook  -project="C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/FrontTest.uproject"  -ue4exe="F:\IntereFX\UE_5.0EA\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -ddc=InstalledDerivedDataBackendGraph -installed -stage -archive -package -build -iostore -pak -prereqs -archivedirectory="C:/Users/Aversenq/Documents/GitHub/PackageProject" -nodebuginfo -clientconfig=Development" -nocompile ]
+[2022.01.24-15.20.16:457][703]LogAudio: Display: Chunk size for SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: 262144
+[2022.01.24-15.20.16:723][703]UATHelper: Packaging (Windows): Running AutomationTool...
+[2022.01.24-15.20.16:785][703]UATHelper: Packaging (Windows): Parsing command line: -ScriptsForProject=C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/FrontTest.uproject Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -project=C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/FrontTest.uproject BuildCookRun -nop4 -utf8output -nocompileeditor -cook -project=C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/FrontTest.uproject -ue4exe=F:\IntereFX\UE_5.0EA\Engine\Binaries\Win64\UnrealEditor-Cmd.exe -platform=Win64 -ddc=InstalledDerivedDataBackendGraph -installed -stage -archive -package -build -iostore -pak -prereqs -archivedirectory=C:/Users/Aversenq/Documents/GitHub/PackageProject -nodebuginfo -clientconfig=Development -nocompile
+[2022.01.24-15.20.16:855][703]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18446737132524074199
+[2022.01.24-15.20.16:855][703]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.01.24-15.20.17:338][718]UATHelper: Packaging (Windows): Installed Sdk validity:
+[2022.01.24-15.20.17:338][718]UATHelper: Packaging (Windows): Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.01.24-15.20.17:338][718]UATHelper: Packaging (Windows): Scanning for envvar changes...
+[2022.01.24-15.20.17:338][718]UATHelper: Packaging (Windows): ... done! 
+[2022.01.24-15.20.17:338][718]UATHelper: Packaging (Windows): Cleaning Temp Paths...
+[2022.01.24-15.20.17:338][718]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
+[2022.01.24-15.20.17:356][719]UATHelper: Packaging (Windows): Setting up ProjectParams for C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\FrontTest.uproject
+[2022.01.24-15.20.17:590][733]UATHelper: Packaging (Windows): FrontTest.uproject requires a temporary target.cs to be generated (PixelStreaming plugin is enabled)
+[2022.01.24-15.20.19:537][850]UATHelper: Packaging (Windows): ********** BUILD COMMAND STARTED **********
+[2022.01.24-15.20.19:556][851]UATHelper: Packaging (Windows): Running: F:\IntereFX\UE_5.0EA\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe FrontTest Win64 Development -Project=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\FrontTest.uproject  C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\FrontTest.uproject -NoUBTMakefiles  -remoteini="C:\Users\Aversenq\Documents\GitHub\FrontTestUE5" -skipdeploy -Manifest=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Intermediate\Build\Manifest.xml -NoHotReload -log="C:\Users\Aversenq\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+IntereFX+UE_5.0EA\UBT-FrontTest-Win64-Development.txt"
+[2022.01.24-15.20.20:573][912]UATHelper: Packaging (Windows):   Win64 using Manual SDK 10.0.19041.0
+[2022.01.24-15.20.20:573][912]UATHelper: Packaging (Windows):   Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Aversenq\Documents\GitHub\FrontTestUE5).
+[2022.01.24-15.20.23:818][ 52]UATHelper: Packaging (Windows):   Parsing headers for FrontTest
+[2022.01.24-15.20.23:910][ 58]UATHelper: Packaging (Windows):     Running UnrealHeaderTool "C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\FrontTest.uproject" "C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Intermediate\Build\Win64\FrontTest\Development\FrontTest.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Aversenq\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+IntereFX+UE_5.0EA\UHT-FrontTest-Win64-Development.txt" -installed
+[2022.01.24-15.20.28:470][224]UATHelper: Packaging (Windows):   Reflection code generated for FrontTest in 4,5532611 seconds
+[2022.01.24-15.20.28:879][249]UATHelper: Packaging (Windows):   Writing manifest to C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Intermediate\Build\Manifest.xml
+[2022.01.24-15.20.28:982][255]UATHelper: Packaging (Windows):   Building FrontTest...
+[2022.01.24-15.20.28:982][255]UATHelper: Packaging (Windows):   Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.24-15.20.28:982][255]UATHelper: Packaging (Windows):   [Upgrade]
+[2022.01.24-15.20.28:982][255]UATHelper: Packaging (Windows):   [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2022.01.24-15.20.28:982][255]UATHelper: Packaging (Windows):   [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2022.01.24-15.20.28:982][255]UATHelper: Packaging (Windows):   [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2022.01.24-15.20.28:982][255]UATHelper: Packaging (Windows):   [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2022.01.24-15.20.28:982][255]UATHelper: Packaging (Windows):   [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in FrontTest.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2022.01.24-15.20.28:982][255]UATHelper: Packaging (Windows):   [Upgrade]
+[2022.01.24-15.20.28:999][256]UATHelper: Packaging (Windows):   Building 6 actions with 12 processes...
+[2022.01.24-15.20.29:300][274]UATHelper: Packaging (Windows):     [1/6] turbojpeg.dll
+[2022.01.24-15.20.29:565][290]UATHelper: Packaging (Windows):     [2/6] Default.rc2
+[2022.01.24-15.20.33:032][441]UATHelper: Packaging (Windows):     [3/6] SharedPCH.Core.cpp
+[2022.01.24-15.20.33:387][462]UATHelper: Packaging (Windows):     [4/6] FrontTest.cpp
+[2022.01.24-15.20.53:361][643]UATHelper: Packaging (Windows):     [5/6] FrontTest.exe
+[2022.01.24-15.20.53:361][643]UATHelper: Packaging (Windows):        Cr�ation de la biblioth�que C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Binaries\Win64\FrontTest.lib et de l'objet C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Binaries\Win64\FrontTest.exp
+[2022.01.24-15.20.53:830][669]UATHelper: Packaging (Windows):     [6/6] FrontTest.target
+[2022.01.24-15.20.53:830][669]UATHelper: Packaging (Windows):   Total time in Parallel executor: 24,84 seconds
+[2022.01.24-15.20.53:884][672]UATHelper: Packaging (Windows):   Total execution time: 33,99 seconds
+[2022.01.24-15.20.53:935][675]UATHelper: Packaging (Windows): Took 34,379859100000004s to run UnrealBuildTool.exe, ExitCode=0
+[2022.01.24-15.20.53:952][676]UATHelper: Packaging (Windows): ********** BUILD COMMAND COMPLETED **********
+[2022.01.24-15.20.53:968][677]UATHelper: Packaging (Windows): ********** COOK COMMAND STARTED **********
+[2022.01.24-15.20.53:983][678]UATHelper: Packaging (Windows): Running UnrealEditor Cook for project C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\FrontTest.uproject
+[2022.01.24-15.20.54:006][679]UATHelper: Packaging (Windows): Commandlet log file is F:\IntereFX\UE_5.0EA\Engine\Programs\AutomationTool\Saved\Cook-2022.01.24-16.20.53.txt
+[2022.01.24-15.20.54:006][679]UATHelper: Packaging (Windows): Running: F:\IntereFX\UE_5.0EA\Engine\Binaries\Win64\UnrealEditor-Cmd.exe C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\FrontTest.uproject -run=Cook  -TargetPlatform=Windows -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog=F:\IntereFX\UE_5.0EA\Engine\Programs\AutomationTool\Saved\Cook-2022.01.24-16.20.53.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.01.24-15.20.55:205][749]UATHelper: Packaging (Windows):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.01.24-15.20.55:206][749]UATHelper: Packaging (Windows):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.01.24-15.20.55:206][749]UATHelper: Packaging (Windows):   LogInit: Display: Running engine for game: FrontTest
+[2022.01.24-15.20.56:292][812]UATHelper: Packaging (Windows):   LogConfig: Display: Loading platform ini files took 0.32 seconds
+[2022.01.24-15.20.56:693][836]UATHelper: Packaging (Windows):   LogHAL: Display: Platform has ~ 32 GB [34202636288 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogConfig: Display: Blocking on platform ini files took 0.00 seconds
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.24-15.20.56:728][838]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.24-15.20.56:745][839]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.24-15.20.56:745][839]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.24-15.20.56:745][839]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.24-15.20.56:745][839]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.01.24-15.20.56:745][839]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.24-15.20.56:745][839]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.24-15.20.56:758][840]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64'
+[2022.01.24-15.20.56:759][840]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.24-15.20.56:759][840]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.24-15.20.56:759][840]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.24-15.20.56:759][840]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.24-15.20.56:759][840]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.24-15.20.56:759][840]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2022.01.24-15.20.56:759][840]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.24-15.20.56:759][840]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.24-15.20.56:776][841]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.24-15.20.56:776][841]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.24-15.20.56:776][841]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.24-15.20.56:776][841]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.01.24-15.20.56:776][841]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.24-15.20.56:776][841]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.24-15.20.56:776][841]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.24-15.20.56:793][842]UATHelper: Packaging (Windows):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.24-15.20.57:227][868]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.01.24-15.20.57:244][869]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.01.24-15.20.57:244][869]UATHelper: Packaging (Windows):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.24-15.20.57:359][876]UATHelper: Packaging (Windows):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aversenq/AppData/Local/UnrealEngine/5.0/DerivedDataCache/Boot.ddc
+[2022.01.24-15.20.57:394][878]UATHelper: Packaging (Windows):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.24-15.20.57:394][878]UATHelper: Packaging (Windows):   LogDerivedDataCache: Display: Performance to C:/Users/Aversenq/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=604.48MBs, RandomWriteSpeed=171.24MBs. Assigned SpeedClass 'Local'
+[2022.01.24-15.20.57:394][878]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.24-15.21.00:528][ 65]UATHelper: Packaging (Windows):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.24-15.21.00:528][ 65]UATHelper: Packaging (Windows):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.24-15.21.01:258][109]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FColorMaterialInput::Constant is not initialized properly. Module:Engine File:Classes/Materials/Material.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FScalarMaterialInput::Constant is not initialized properly. Module:Engine File:Classes/Materials/Material.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FVectorMaterialInput::Constant is not initialized properly. Module:Engine File:Classes/Materials/Material.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FVector2MaterialInput::ConstantX is not initialized properly. Module:Engine File:Classes/Materials/Material.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FVector2MaterialInput::ConstantY is not initialized properly. Module:Engine File:Classes/Materials/Material.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FNetAnalyticsDataConfig::bEnabled is not initialized properly. Module:NetCore File:Classes/Net/Core/Analytics/NetAnalyticsAggregatorConfig.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FEngineServicePong::EngineVersion is not initialized properly. Module:EngineMessages File:Public/EngineServiceMessages.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FEngineServicePong::HasBegunPlay is not initialized properly. Module:EngineMessages File:Public/EngineServiceMessages.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FEngineServicePong::WorldTimeSeconds is not initialized properly. Module:EngineMessages File:Public/EngineServiceMessages.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FPIEPreviewDeviceSpecifications::DevicePlatform is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIEPreviewDeviceSpecifications::ResolutionX is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIEPreviewDeviceSpecifications::ResolutionY is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIEPreviewDeviceSpecifications::ResolutionYImmersiveMode is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIEPreviewDeviceSpecifications::PPI is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIESwitchDeviceProperties::Docked is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIERHIOverrideState::MaxShadowDepthBufferSizeX is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIERHIOverrideState::MaxShadowDepthBufferSizeY is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIERHIOverrideState::MaxTextureDimensions is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIERHIOverrideState::MaxCubeTextureDimensions is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIERHIOverrideState::SupportsRenderTargetFormat_PF_G8 is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIERHIOverrideState::SupportsRenderTargetFormat_PF_FloatRGBA is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIERHIOverrideState::SupportsMultipleRenderTargets is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIEAndroidDeviceProperties::VulkanAvailable is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIEAndroidDeviceProperties::UsingHoudini is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FTemplateReplacement::bCaseSensitive is not initialized properly. Module:GameProjectGeneration File:Classes/TemplateProjectDefs.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsValid is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsUnknown is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanCheckIn is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:259][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanCheckOut is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsCheckedOut is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsCurrent is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsSourceControlled is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsAdded is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsDeleted is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsIgnored is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanEdit is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanDelete is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsModified is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanAdd is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsConflicted is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:260][109]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanRevert is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsCheckedOutOther is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FAnimGraphAttributeDesc::DisplayMode is not initialized properly. Module:AnimGraph File:Public/AnimGraphAttributes.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FAnimGraphAttributeDesc::Blend is not initialized properly. Module:AnimGraph File:Public/AnimGraphAttributes.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FAnimGraphAttributeDesc::SortOrder is not initialized properly. Module:AnimGraph File:Public/AnimGraphAttributes.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: ByteProperty FAnimNode_Sync::GroupRole is not initialized properly. Module:AnimGraphRuntime File:Public/AnimNodes/AnimNode_Sync.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FDFontParameters::FontPage is not initialized properly. Module:UnrealEd File:Classes/MaterialEditor/DEditorFontParameterValue.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FScalarParameterAtlasData::bIsUsedAsAtlasPosition is not initialized properly. Module:UnrealEd File:Classes/MaterialEditor/DEditorScalarParameterValue.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FDialogueScriptEntry::IsRecorded is not initialized properly. Module:UnrealEd File:Classes/Commandlets/ExportDialogueScriptCommandlet.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FLevelEditorPlayNetworkEmulationSettings::bIsNetworkEmulationEnabled is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlayNetworkEmulationSettings.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FLevelEditorPlayNetworkEmulationSettings::EmulationTarget is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlayNetworkEmulationSettings.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPlayScreenResolution::Width is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPlayScreenResolution::Height is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPlayScreenResolution::bCanSwapAspectRatio is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FPlayScreenResolution::ScaleFactor is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPlayScreenResolution::LogicalHeight is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPlayScreenResolution::LogicalWidth is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: ByteProperty FEditorParameterGroup::GroupAssociation is not initialized properly. Module:UnrealEd File:Classes/MaterialEditor/MaterialEditorInstanceConstant.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FEditorParameterGroup::GroupSortPriority is not initialized properly. Module:UnrealEd File:Classes/MaterialEditor/MaterialEditorInstanceConstant.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FCurveFlagsChangedPayload::OldFlags is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FCurveScaledPayload::Factor is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FCurveScaledPayload::Origin is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.21.01:284][110]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FSequenceLengthChangedPayload::PreviousLength is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FSequenceLengthChangedPayload::T0 is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FSequenceLengthChangedPayload::T1 is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FAnimationTrackAddedPayload::TrackIndex is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: ByteProperty FQueuedDrawDebugItem::DepthPriority is not initialized properly. Module:Engine File:Public/Animation/AnimInstanceProxy.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FInstancedStaticMeshComponentInstanceData::InstancingRandomSeed is not initialized properly. Module:Engine File:Classes/Components/InstancedStaticMeshComponent.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FDynamicTextureInstance::bAttached is not initialized properly. Module:Engine File:Classes/Engine/Level.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FDynamicTextureInstance::OriginalRadius is not initialized properly. Module:Engine File:Classes/Engine/Level.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPrecomputedLightInstanceData::PreviewShadowMapChannel is not initialized properly. Module:Engine File:Classes/Components/LightComponent.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FStaticComponentMaskValue::R is not initialized properly. Module:Engine File:Public/MaterialCachedData.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FStaticComponentMaskValue::G is not initialized properly. Module:Engine File:Public/MaterialCachedData.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FStaticComponentMaskValue::B is not initialized properly. Module:Engine File:Public/MaterialCachedData.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FStaticComponentMaskValue::A is not initialized properly. Module:Engine File:Public/MaterialCachedData.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FMaterialCachedExpressionData::bHasSceneColor is not initialized properly. Module:Engine File:Public/MaterialCachedData.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: ByteProperty FCustomOutput::OutputType is not initialized properly. Module:Engine File:Classes/Materials/MaterialExpressionCustom.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPoseAssetInfluence::PoseIndex is not initialized properly. Module:Engine File:Classes/Animation/PoseAsset.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPoseAssetInfluence::BoneTransformIndex is not initialized properly. Module:Engine File:Classes/Animation/PoseAsset.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPrimitiveComponentInstanceData::VisibilityId is not initialized properly. Module:Engine File:Classes/Components/PrimitiveComponent.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FEngineShowFlagsSetting::Enabled is not initialized properly. Module:Engine File:Classes/Components/SceneCaptureComponent.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: UInt16Property FShaderParamTypeDefinition::ArrayElementCount is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.21.01:285][110]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderParamTypeDefinition::FundamentalType is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderParamTypeDefinition::DimType is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderParamTypeDefinition::BindingType is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderParamTypeDefinition::ResourceType is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderValueType::Type is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderValueType::DimensionType is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FBoneFilter::bExcludeSelf is not initialized properly. Module:Engine File:Classes/Engine/SkeletalMeshLODSettings.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FSkelMeshSkinWeightInfo::Bones is not initialized properly. Module:Engine File:Classes/Components/SkinnedMeshComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: ByteProperty FSkelMeshSkinWeightInfo::Weights is not initialized properly. Module:Engine File:Classes/Components/SkinnedMeshComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FTentDistribution::TipAltitude is not initialized properly. Module:Engine File:Classes/Components/SkyAtmosphereComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FTentDistribution::TipValue is not initialized properly. Module:Engine File:Classes/Components/SkyAtmosphereComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FTentDistribution::Width is not initialized properly. Module:Engine File:Classes/Components/SkyAtmosphereComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FPrecomputedSkyLightInstanceData::AverageBrightness is not initialized properly. Module:Engine File:Classes/Components/SkyLightComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FSplineMeshInstanceData::StartPos is not initialized properly. Module:Engine File:Classes/Components/SplineMeshComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FSplineMeshInstanceData::EndPos is not initialized properly. Module:Engine File:Classes/Components/SplineMeshComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FSplineMeshInstanceData::StartTangent is not initialized properly. Module:Engine File:Classes/Components/SplineMeshComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FSplineMeshInstanceData::EndTangent is not initialized properly. Module:Engine File:Classes/Components/SplineMeshComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: UInt32Property FStaticMeshVertexColorLODData::LODIndex is not initialized properly. Module:Engine File:Classes/Components/StaticMeshComponent.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FVirtualTextureBuildSettings::TileSize is not initialized properly. Module:Engine File:Classes/VT/VirtualTextureBuildSettings.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FVirtualTextureBuildSettings::TileBorderSize is not initialized properly. Module:Engine File:Classes/VT/VirtualTextureBuildSettings.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FVirtualTextureBuildSettings::bEnableCompressCrunch is not initialized properly. Module:Engine File:Classes/VT/VirtualTextureBuildSettings.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FVirtualTextureBuildSettings::bEnableCompressZlib is not initialized properly. Module:Engine File:Classes/VT/VirtualTextureBuildSettings.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameStartCPUCompAcquireCPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameStartCPUFrameEndGPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameStartCPUFrameStartCPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameDurationCPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameDurationGPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameInternalDurationCPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameInternalDurationGPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.21.01:305][111]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FNiagaraRibbonShapeCustomVertex::Position is not initialized properly. Module:Niagara File:Public/NiagaraRibbonRendererProperties.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FNiagaraRibbonShapeCustomVertex::Normal is not initialized properly. Module:Niagara File:Public/NiagaraRibbonRendererProperties.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FNiagaraRibbonShapeCustomVertex::TextureV is not initialized properly. Module:Niagara File:Public/NiagaraRibbonRendererProperties.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FTutorialStage::bInvertPlatformTest is not initialized properly. Module:IntroTutorials File:Public/EditorTutorial.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FTutorialCategory::SortOrder is not initialized properly. Module:IntroTutorials File:Public/EditorTutorial.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FPinnedCommandListCommand::Type is not initialized properly. Module:PinnedCommandList File:Private/PinnedCommandListSettings.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPhysicsConvexData::NumVertices is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPhysicsConvexData::NumFaces is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FPhysicsCapsuleData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FPhysicsCapsuleData::Length is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FPhysicsBoxData::Dimensions is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FPhysicsSphereData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.21.01:306][111]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FLODLevelGenerateSettings::TargetMode is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.24-15.21.01:319][112]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetPercentage is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.24-15.21.01:319][112]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetCount is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.24-15.21.01:320][112]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FCustomMeshTriangle::Vertex0 is not initialized properly. Module:CustomMeshComponent File:Classes/CustomMeshComponent.h
+[2022.01.24-15.21.01:320][112]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FCustomMeshTriangle::Vertex1 is not initialized properly. Module:CustomMeshComponent File:Classes/CustomMeshComponent.h
+[2022.01.24-15.21.01:320][112]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FCustomMeshTriangle::Vertex2 is not initialized properly. Module:CustomMeshComponent File:Classes/CustomMeshComponent.h
+[2022.01.24-15.21.01:320][112]UATHelper: Packaging (Windows):   LogClass: Display: Int8Property FUAssetMeta::assetTier is not initialized properly. Module:MegascansPlugin File:Private/MSAssetImportData.h
+[2022.01.24-15.21.01:320][112]UATHelper: Packaging (Windows):   LogClass: Display: 130 Uninitialized script struct members found including 0 object properties
+[2022.01.24-15.21.01:320][112]UATHelper: Packaging (Windows):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.24-15.21.01:320][112]UATHelper: Packaging (Windows):   LogCook: Display: Mobile HDR setting 1
+[2022.01.24-15.21.01:320][112]UATHelper: Packaging (Windows):   LogCook: Display: Creating asset registry
+[2022.01.24-15.21.01:804][141]UATHelper: Packaging (Windows):   LogCook: Display: Discovering localized assets for cultures: en
+[2022.01.24-15.21.01:821][142]UATHelper: Packaging (Windows):   LogCook: Display: Unable to read previous cook inisettings for platform Windows invalidating cook
+[2022.01.24-15.21.01:821][142]UATHelper: Packaging (Windows):   LogCook: Display: Clearing all cooked content for platform Windows
+[2022.01.24-15.21.01:843][143]UATHelper: Packaging (Windows):   LogCook: Display: Sandbox cleanup took 0.021 seconds for platforms Windows
+[2022.01.24-15.21.01:876][145]UATHelper: Packaging (Windows):   LogCook: Display: Checking global shaders for platform Windows
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display:
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5) Stats:
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: =================
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Assets: 0, Unique Shadermaps: 299 (0.00%)
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Total Shaders: 3454, Unique Shaders: 3442 (99.65%)
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Total Shader Size: 10.18mb, Unique Shaders Size: 10.17mb (99.96%)
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: === Extended info:
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 392
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display:     3, 3, 3, 2, 2, 2, 2, 2, 2, 1
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Textual dump saved to 'C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+[2022.01.24-15.34.59:586][887]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: =================
+[2022.01.24-15.34.59:923][888]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 0 Packages Remain 363 Total 363
+[2022.01.24-15.34.59:923][888]UATHelper: Packaging (Windows):   LogCook: Display: Cook Diagnostics: OpenFileHandles=175, VirtualMemory=886MiB
+[2022.01.24-15.35.00:256][889]UATHelper: Packaging (Windows):   LogTexture: Display: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.01.24-15.35.00:256][889]UATHelper: Packaging (Windows):   LogTexture: Display: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.01.24-15.35.00:257][889]UATHelper: Packaging (Windows):   LogTexture: Display: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.01.24-15.35.00:257][889]UATHelper: Packaging (Windows):   LogTexture: Display: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.01.24-15.35.00:257][889]UATHelper: Packaging (Windows):   LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.01.24-15.35.00:257][889]UATHelper: Packaging (Windows):   LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.01.24-15.35.00:257][889]UATHelper: Packaging (Windows):   LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.01.24-15.35.00:257][889]UATHelper: Packaging (Windows):   LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.01.24-15.35.00:594][890]UATHelper: Packaging (Windows):   LogTexture: Display: Building textures: TextEditBeamTexture (AutoDXT, 32X32)
+[2022.01.24-15.35.00:594][890]UATHelper: Packaging (Windows):   LogStaticMesh: Display: Building static mesh Ramp_StaticMesh...
+[2022.01.24-15.35.01:940][894]UATHelper: Packaging (Windows):   LogStaticMesh: Display: Building static mesh SM_Chair...
+[2022.01.24-15.35.01:940][894]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 300 Packages Remain 242 Total 542
+[2022.01.24-15.35.20:405][949]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 438 Packages Remain 119 Total 557
+[2022.01.24-15.35.21:740][953]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 519 Packages Remain 41 Total 560
+[2022.01.24-15.35.21:740][953]UATHelper: Packaging (Windows):   LogStaticMesh: Display: Building static mesh SM_MatPreviewMesh_02...
+[2022.01.24-15.35.23:423][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Steam01.Steam01: 262144
+[2022.01.24-15.35.23:424][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Starter_Music01.Starter_Music01: 262144
+[2022.01.24-15.35.23:424][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Fire01.Fire01: 262144
+[2022.01.24-15.35.23:424][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01: 262144
+[2022.01.24-15.35.23:424][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Light01.Light01: 262144
+[2022.01.24-15.35.23:424][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Light02.Light02: 262144
+[2022.01.24-15.35.23:424][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Smoke01.Smoke01: 262144
+[2022.01.24-15.35.23:424][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02: 262144
+[2022.01.24-15.35.23:424][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01: 262144
+[2022.01.24-15.35.23:424][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Collapse02.Collapse02: 262144
+[2022.01.24-15.35.23:424][958]UATHelper: Packaging (Windows):   LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Collapse01.Collapse01: 262144
+[2022.01.24-15.35.23:763][959]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 550 Packages Remain 10 Total 560
+[2022.01.24-15.35.24:431][961]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 560 Packages Remain 0 Total 560
+[2022.01.24-15.35.24:431][961]UATHelper: Packaging (Windows):   LogCook: Display: Cook Diagnostics: OpenFileHandles=565, VirtualMemory=1208MiB
+[2022.01.24-15.35.24:431][961]UATHelper: Packaging (Windows):   LogCook: Display: Finishing up...
+[2022.01.24-15.35.24:431][961]UATHelper: Packaging (Windows):   LogCook: Display: Saving BulkData manifest(s)...
+[2022.01.24-15.35.24:431][961]UATHelper: Packaging (Windows):   LogCook: Display: Done saving BulkData manifest(s)
+[2022.01.24-15.35.24:431][961]UATHelper: Packaging (Windows):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 559, size is 198.52kb
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display:
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Shader Library 'FrontTest' (PCD3D_SM5) Stats:
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: =================
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Assets: 126, Unique Shadermaps: 119 (94.44%)
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Total Shaders: 4787, Unique Shaders: 3961 (82.74%)
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Total Shader Size: 19.32mb, Unique Shaders Size: 17.52mb (90.67%)
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: === Extended info:
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 6
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Median number of shaders in shadermap: 34
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 544
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display:     73, 60, 51, 51, 35, 28, 13, 13, 13, 11
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: Textual dump saved to 'C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/Saved/Shaders/PCD3D_SM5/ShaderDebug-FrontTest-PCD3D_SM5/Dump.txt'
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogShaderLibrary: Display: =================
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogCook: Display: Cook by the book total time in tick 24.691864s total time 863.247009
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogCook: Display: Peak Used virtual 1350 MiB Peak Used physical 1236 MiB
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogCook: Display: Hierarchy Timer Information:
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogCook: Display:   Root: 0.000s (0)
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogCook: Display:     CleanSandbox: 0.021s (1)
+[2022.01.24-15.35.24:763][962]UATHelper: Packaging (Windows):   LogCook: Display:       ProcessingAccessedStrings: 0.002s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:     CollectFilesToCook: 0.333s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:     GenerateLongPackageName: 0.005s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:     TickCookOnTheSide: 24.692s (12)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:       PostLoadPackageFixup: 0.002s (911)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:       LoadPackageForCooking: 1.049s (560)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:       SavingPackages: 23.602s (127)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:         BeginPrepareSave: 0.367s (140)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.531s (558)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:           BeginPrepareSave: 0.530s (451)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:         SaveCookedPackage: 21.820s (560)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:           GEditorSavePackage: 21.800s (560)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:             VerifyCanCookPackage: 0.003s (559)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.009s (560)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:     SavingCurrentIniSettings: 0.009s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:     SavingAssetRegistry: 0.164s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:       BuildChunkManifest: 0.015s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:       SaveManifests: 0.011s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:       SaveRealAssetRegistry: 0.031s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display:       WriteCookerOpenOrder: 0.026s (1)
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCook: Display: Done!
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogSavePackage: Display: Took 0.001151s to verify the EDL loading graph.
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Misc Cook Stats
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: ===============
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: ShaderCompiler
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     BlockingTimeSec=832.054699
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     AsyncCompileTimeSec=7476.691253
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=2.541767
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=4714
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=832.509273
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: GlobalShader.Misc
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     ShadersCompiled=4714
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: MaterialShader.Misc
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: MaterialInstance
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     UpdateCachedExpressionDataSec=0.000425
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Material
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     UpdateCachedExpressionDataSec=0.007174
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: ComputeKernelShader.Misc
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Package.Load
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     NumPreloadedDependencies=278
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     NumInlineLoads=18
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     NumPackagesLoaded=525
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.740087
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     PeakRequestQueueSize=345
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     PeakLoadQueueSize=197
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     PeakSaveQueueSize=197
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Package.Save
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     NumPackagesSaved=0
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     SavePackageTimeSec=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.167239
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     MBWritten=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Package.DiffTotal
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.01.24-15.35.24:764][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: UnversionedProperties
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     SavedStructs=0
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     SavedMB=0
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Cook Profile
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: ============
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0.CookWallTimeSec=869.824064
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=6.563101
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=863.257827
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=838.362199
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000457
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=24.872095
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=1.049510
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=21.819945
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPrepareSaveTimeSec=0.897375
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPrepareSaveTimeSec=0.000000
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.001884
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000016
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000573
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000006
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 7.TargetPlatforms=Windows
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 8.CookProject=FrontTest
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:  0. 1. 9.CookCultures=
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: DDC Summary Stats
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: =================
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: BackEnd         =InstalledDerivedDataBackendGraph
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: HasLocalCache   =      true
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: HasSharedCache  =     false
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: HasCloudCache   =     false
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: TotalGetHits    =      1678
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: TotalGets       =      2105
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: TotalGetHitPct  =  0.797150
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: LocalGetHitPct  =  0.016627
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: CloudGetHitPct  =  0.000000
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: OtherGetHitPct  =  0.780523
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: GetMissPct      =  0.202850
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: TotalPutHits    =       445
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: TotalPuts       =       445
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display:
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: DDC Resource Stats
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: =======================================================================================================
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.01.24-15.35.24:765][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: DistanceField                                  20.06                  19.96            51         30.13
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Texture (Streaming)                             3.91                   0.00             0        420.16
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: CardRepresentation                              0.96                   0.96            51          0.03
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: MaterialShader                                  0.49                   0.49             0         24.90
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: StaticMesh                                      0.26                   0.18             3          7.37
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: GlobalShader                                    0.22                   0.22             1          0.01
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.15                   0.08             1         12.39
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: StaticMeshConvert                               0.14                   0.00             0          4.81
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: SkeletalMesh                                    0.09                   0.09             0          9.97
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Audio (Streaming)                               0.03                   0.00            11          2.67
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: SoundWave                                       0.03                   0.03             0          2.61
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: NavCollision                                    0.02                   0.00             1          0.11
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Audio (Inline)                                  0.01                   0.01             0          1.66
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: AnimSequence                                    0.00                   0.00             0          0.08
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             1         78.15
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogPackageBuildDependencyTracker: Display: Package Accesses (265 referencing packages with a total of 949 unique accesses)
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogInit: Display:
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogInit: Display: Success - 0 error(s), 0 warning(s)
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   LogInit: Display:
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   
+[2022.01.24-15.35.24:766][962]UATHelper: Packaging (Windows):   Execution of commandlet took:  863.28 seconds
+[2022.01.24-15.35.25:767][965]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.24-15.35.25:767][965]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Total job queries 4714, among them cache hits 0 (0.00%)
+[2022.01.24-15.35.25:767][965]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Tracking 4714 distinct input hashes that result in 3442 distinct outputs (73.02%)
+[2022.01.24-15.35.25:767][965]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: RAM used: 13.37 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.82%
+[2022.01.24-15.35.25:767][965]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: ================================================
+[2022.01.24-15.35.26:104][966]UATHelper: Packaging (Windows):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.01.24-15.35.26:104][966]UATHelper: Packaging (Windows):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Took 872,9751557999999s to run UnrealEditor-Cmd.exe, ExitCode=0
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): ********** COOK COMMAND COMPLETED **********
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): ********** STAGE COMMAND STARTED **********
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Creating Staging Manifest...
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\BaseEditor.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\BaseEditorKeyBindings.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\BaseEditorSettings.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\BaseLightmass.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\BasePakFileRules.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\Category.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\Editor.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\EditorTutorials.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\Engine.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\Keywords.ini
+[2022.01.24-15.35.27:111][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\PortableObjectExport.ini
+[2022.01.24-15.35.27:112][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\PortableObjectImport.ini
+[2022.01.24-15.35.27:112][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\PropertyNames.ini
+[2022.01.24-15.35.27:112][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\RepairData.ini
+[2022.01.24-15.35.27:112][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\ToolTips.ini
+[2022.01.24-15.35.27:112][969]UATHelper: Packaging (Windows): Excluding config file F:\IntereFX\UE_5.0EA\Engine\Config\Localization\WordCount.ini
+[2022.01.24-15.35.27:444][970]UATHelper: Packaging (Windows): Excluding config file C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Config\DefaultEditor.ini
+[2022.01.24-15.35.27:445][970]UATHelper: Packaging (Windows): Excluding config file C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Config\DefaultEditorPerProjectUserSettings.ini
+[2022.01.24-15.35.27:445][970]UATHelper: Packaging (Windows): Cleaning Stage Directory: C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\StagedBuilds\Windows
+[2022.01.24-15.35.27:445][970]UATHelper: Packaging (Windows): Creating pak using staging manifest.
+[2022.01.24-15.35.27:445][970]UATHelper: Packaging (Windows): Executing 1 UnrealPak command...
+[2022.01.24-15.35.29:460][976]UATHelper: Packaging (Windows): Waiting for child processes to complete (1/1)
+[2022.01.24-15.35.29:460][976]UATHelper: Packaging (Windows): Output from: C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\FrontTest.uproject C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\StagedBuilds\Windows\FrontTest\Content\Paks\FrontTest-Windows.pak -create="C:\Users\Aversenq\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+IntereFX+UE_5.0EA\PakList_FrontTest-Windows.txt" -cryptokeys=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\Cooked\Windows\FrontTest\Metadata\Crypto.json -secondaryOrder=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Build\Windows\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -platform=Windows  -multiprocess -abslog="C:\Users\Aversenq\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+IntereFX+UE_5.0EA\UnrealPak-FrontTest-Windows-2022.01.24-16.35.27.txt"
+[2022.01.24-15.35.29:460][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2022.01.24-15.35.29:460][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Loading response file C:\Users\Aversenq\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+IntereFX+UE_5.0EA\PakList_FrontTest-Windows.txt
+[2022.01.24-15.35.29:460][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Added 1217 entries to add to pak file.
+[2022.01.24-15.35.29:460][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Loading pak order file C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Build\Windows\FileOpenOrder\CookerOpenOrder.log...
+[2022.01.24-15.35.29:460][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Finished loading pak order file C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Build\Windows\FileOpenOrder\CookerOpenOrder.log.
+[2022.01.24-15.35.29:460][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Collecting files to add to pak file...
+[2022.01.24-15.35.29:460][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Collected 1217 files in 0.00s.
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Creating pak C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\StagedBuilds\Windows\FrontTest\Content\Paks\FrontTest-Windows.pak.
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogPakFile: Display: CompressionFormats in priority order: Zlib
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogDerivedDataCache: Display: Performance to C:/Users/Aversenq/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogPakFile: Display: CompressionFormat 0 [Zlib] : 0 files, 0 -> 0 bytes
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogPakFile: Display: CompressionFormat 1 [None] : 1217 files, 49226361 -> 49226361 bytes
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Added 1217 files, 49787626 bytes total, time 0.65s.
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogPakFile: Display: PrimaryIndex size: 14718 bytes
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogPakFile: Display: PathHashIndex size: 37431 bytes
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogPakFile: Display: FullDirectoryIndex size: 36494 bytes
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Encryption - DISABLED
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows):   LogPakFile: Display: Unreal pak executed in 0.681859 seconds
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows): UnrealPak terminated with exit code 0
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows): Running IoStore commandlet with arguments: -CreateGlobalContainer=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\StagedBuilds\Windows\FrontTest\Content\Paks\global.utoc -CookedDirectory=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\Cooked\Windows -Commands="C:\Users\Aversenq\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+IntereFX+UE_5.0EA\IoStoreCommands.txt" -CookerOrder=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Build\Windows\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048   -cryptokeys=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\Cooked\Windows\FrontTest\Metadata\Crypto.json  -TargetPlatform=Windows
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows): Running UnrealEditor IoStore for project C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\FrontTest.uproject
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows): Commandlet log file is F:\IntereFX\UE_5.0EA\Engine\Programs\AutomationTool\Saved\IoStore-2022.01.24-16.35.29.txt
+[2022.01.24-15.35.29:461][976]UATHelper: Packaging (Windows): Running: F:\IntereFX\UE_5.0EA\Engine\Binaries\Win64\UnrealEditor-Cmd.exe C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\FrontTest.uproject -run=IoStore -CreateGlobalContainer=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\StagedBuilds\Windows\FrontTest\Content\Paks\global.utoc -CookedDirectory=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\Cooked\Windows -Commands="C:\Users\Aversenq\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+IntereFX+UE_5.0EA\IoStoreCommands.txt" -CookerOrder=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Build\Windows\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048   -cryptokeys=C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\Cooked\Windows\FrontTest\Metadata\Crypto.json  -TargetPlatform=Windows -abslog=F:\IntereFX\UE_5.0EA\Engine\Programs\AutomationTool\Saved\IoStore-2022.01.24-16.35.29.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.01.24-15.35.30:468][979]UATHelper: Packaging (Windows):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.01.24-15.35.30:468][979]UATHelper: Packaging (Windows):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.01.24-15.35.30:468][979]UATHelper: Packaging (Windows):   LogInit: Display: Running engine for game: FrontTest
+[2022.01.24-15.35.31:136][981]UATHelper: Packaging (Windows):   LogConfig: Display: Loading platform ini files took 0.25 seconds
+[2022.01.24-15.35.31:469][982]UATHelper: Packaging (Windows):   LogHAL: Display: Platform has ~ 32 GB [34202636288 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogConfig: Display: Blocking on platform ini files took 0.00 seconds
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.24-15.35.31:807][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.01.24-15.35.31:808][983]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.01.24-15.35.31:809][983]UATHelper: Packaging (Windows):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.24-15.35.31:809][983]UATHelper: Packaging (Windows):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aversenq/AppData/Local/UnrealEngine/5.0/DerivedDataCache/Boot.ddc
+[2022.01.24-15.35.31:809][983]UATHelper: Packaging (Windows):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.24-15.35.31:809][983]UATHelper: Packaging (Windows):   LogDerivedDataCache: Display: Performance to C:/Users/Aversenq/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=876.65MBs, RandomWriteSpeed=150.10MBs. Assigned SpeedClass 'Local'
+[2022.01.24-15.35.31:809][983]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.24-15.35.34:477][991]UATHelper: Packaging (Windows):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.24-15.35.34:477][991]UATHelper: Packaging (Windows):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FColorMaterialInput::Constant is not initialized properly. Module:Engine File:Classes/Materials/Material.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FScalarMaterialInput::Constant is not initialized properly. Module:Engine File:Classes/Materials/Material.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FVectorMaterialInput::Constant is not initialized properly. Module:Engine File:Classes/Materials/Material.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FVector2MaterialInput::ConstantX is not initialized properly. Module:Engine File:Classes/Materials/Material.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FVector2MaterialInput::ConstantY is not initialized properly. Module:Engine File:Classes/Materials/Material.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FNetAnalyticsDataConfig::bEnabled is not initialized properly. Module:NetCore File:Classes/Net/Core/Analytics/NetAnalyticsAggregatorConfig.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FEngineServicePong::EngineVersion is not initialized properly. Module:EngineMessages File:Public/EngineServiceMessages.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FEngineServicePong::HasBegunPlay is not initialized properly. Module:EngineMessages File:Public/EngineServiceMessages.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FEngineServicePong::WorldTimeSeconds is not initialized properly. Module:EngineMessages File:Public/EngineServiceMessages.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FPIEPreviewDeviceSpecifications::DevicePlatform is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIEPreviewDeviceSpecifications::ResolutionX is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIEPreviewDeviceSpecifications::ResolutionY is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIEPreviewDeviceSpecifications::ResolutionYImmersiveMode is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIEPreviewDeviceSpecifications::PPI is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIESwitchDeviceProperties::Docked is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIERHIOverrideState::MaxShadowDepthBufferSizeX is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIERHIOverrideState::MaxShadowDepthBufferSizeY is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIERHIOverrideState::MaxTextureDimensions is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPIERHIOverrideState::MaxCubeTextureDimensions is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIERHIOverrideState::SupportsRenderTargetFormat_PF_G8 is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIERHIOverrideState::SupportsRenderTargetFormat_PF_FloatRGBA is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIERHIOverrideState::SupportsMultipleRenderTargets is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIEAndroidDeviceProperties::VulkanAvailable is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:146][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPIEAndroidDeviceProperties::UsingHoudini is not initialized properly. Module:PIEPreviewDeviceSpecification File:Public/PIEPreviewDeviceSpecification.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FTemplateReplacement::bCaseSensitive is not initialized properly. Module:GameProjectGeneration File:Classes/TemplateProjectDefs.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsValid is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsUnknown is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanCheckIn is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanCheckOut is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsCheckedOut is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsCurrent is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsSourceControlled is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsAdded is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsDeleted is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsIgnored is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanEdit is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanDelete is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsModified is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanAdd is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsConflicted is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bCanRevert is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FSourceControlState::bIsCheckedOutOther is not initialized properly. Module:SourceControl File:Public/SourceControlHelpers.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FAnimGraphAttributeDesc::DisplayMode is not initialized properly. Module:AnimGraph File:Public/AnimGraphAttributes.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FAnimGraphAttributeDesc::Blend is not initialized properly. Module:AnimGraph File:Public/AnimGraphAttributes.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FAnimGraphAttributeDesc::SortOrder is not initialized properly. Module:AnimGraph File:Public/AnimGraphAttributes.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: ByteProperty FAnimNode_Sync::GroupRole is not initialized properly. Module:AnimGraphRuntime File:Public/AnimNodes/AnimNode_Sync.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FDFontParameters::FontPage is not initialized properly. Module:UnrealEd File:Classes/MaterialEditor/DEditorFontParameterValue.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FScalarParameterAtlasData::bIsUsedAsAtlasPosition is not initialized properly. Module:UnrealEd File:Classes/MaterialEditor/DEditorScalarParameterValue.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FDialogueScriptEntry::IsRecorded is not initialized properly. Module:UnrealEd File:Classes/Commandlets/ExportDialogueScriptCommandlet.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FLevelEditorPlayNetworkEmulationSettings::bIsNetworkEmulationEnabled is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlayNetworkEmulationSettings.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FLevelEditorPlayNetworkEmulationSettings::EmulationTarget is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlayNetworkEmulationSettings.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPlayScreenResolution::Width is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPlayScreenResolution::Height is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FPlayScreenResolution::bCanSwapAspectRatio is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FPlayScreenResolution::ScaleFactor is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPlayScreenResolution::LogicalHeight is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPlayScreenResolution::LogicalWidth is not initialized properly. Module:UnrealEd File:Classes/Settings/LevelEditorPlaySettings.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: ByteProperty FEditorParameterGroup::GroupAssociation is not initialized properly. Module:UnrealEd File:Classes/MaterialEditor/MaterialEditorInstanceConstant.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FEditorParameterGroup::GroupSortPriority is not initialized properly. Module:UnrealEd File:Classes/MaterialEditor/MaterialEditorInstanceConstant.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FCurveFlagsChangedPayload::OldFlags is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FCurveScaledPayload::Factor is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FCurveScaledPayload::Origin is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FSequenceLengthChangedPayload::PreviousLength is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.35.35:147][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FSequenceLengthChangedPayload::T0 is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FSequenceLengthChangedPayload::T1 is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FAnimationTrackAddedPayload::TrackIndex is not initialized properly. Module:Engine File:Classes/Animation/AnimData/AnimDataNotifications.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: ByteProperty FQueuedDrawDebugItem::DepthPriority is not initialized properly. Module:Engine File:Public/Animation/AnimInstanceProxy.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FInstancedStaticMeshComponentInstanceData::InstancingRandomSeed is not initialized properly. Module:Engine File:Classes/Components/InstancedStaticMeshComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FDynamicTextureInstance::bAttached is not initialized properly. Module:Engine File:Classes/Engine/Level.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FDynamicTextureInstance::OriginalRadius is not initialized properly. Module:Engine File:Classes/Engine/Level.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPrecomputedLightInstanceData::PreviewShadowMapChannel is not initialized properly. Module:Engine File:Classes/Components/LightComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FStaticComponentMaskValue::R is not initialized properly. Module:Engine File:Public/MaterialCachedData.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FStaticComponentMaskValue::G is not initialized properly. Module:Engine File:Public/MaterialCachedData.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FStaticComponentMaskValue::B is not initialized properly. Module:Engine File:Public/MaterialCachedData.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FStaticComponentMaskValue::A is not initialized properly. Module:Engine File:Public/MaterialCachedData.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FMaterialCachedExpressionData::bHasSceneColor is not initialized properly. Module:Engine File:Public/MaterialCachedData.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: ByteProperty FCustomOutput::OutputType is not initialized properly. Module:Engine File:Classes/Materials/MaterialExpressionCustom.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPoseAssetInfluence::PoseIndex is not initialized properly. Module:Engine File:Classes/Animation/PoseAsset.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPoseAssetInfluence::BoneTransformIndex is not initialized properly. Module:Engine File:Classes/Animation/PoseAsset.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPrimitiveComponentInstanceData::VisibilityId is not initialized properly. Module:Engine File:Classes/Components/PrimitiveComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FEngineShowFlagsSetting::Enabled is not initialized properly. Module:Engine File:Classes/Components/SceneCaptureComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: UInt16Property FShaderParamTypeDefinition::ArrayElementCount is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderParamTypeDefinition::FundamentalType is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderParamTypeDefinition::DimType is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderParamTypeDefinition::BindingType is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderParamTypeDefinition::ResourceType is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderValueType::Type is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FShaderValueType::DimensionType is not initialized properly. Module:Engine File:Public/ComputeFramework/ShaderParamTypeDefinition.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FBoneFilter::bExcludeSelf is not initialized properly. Module:Engine File:Classes/Engine/SkeletalMeshLODSettings.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FSkelMeshSkinWeightInfo::Bones is not initialized properly. Module:Engine File:Classes/Components/SkinnedMeshComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: ByteProperty FSkelMeshSkinWeightInfo::Weights is not initialized properly. Module:Engine File:Classes/Components/SkinnedMeshComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FTentDistribution::TipAltitude is not initialized properly. Module:Engine File:Classes/Components/SkyAtmosphereComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FTentDistribution::TipValue is not initialized properly. Module:Engine File:Classes/Components/SkyAtmosphereComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FTentDistribution::Width is not initialized properly. Module:Engine File:Classes/Components/SkyAtmosphereComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FPrecomputedSkyLightInstanceData::AverageBrightness is not initialized properly. Module:Engine File:Classes/Components/SkyLightComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FSplineMeshInstanceData::StartPos is not initialized properly. Module:Engine File:Classes/Components/SplineMeshComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FSplineMeshInstanceData::EndPos is not initialized properly. Module:Engine File:Classes/Components/SplineMeshComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FSplineMeshInstanceData::StartTangent is not initialized properly. Module:Engine File:Classes/Components/SplineMeshComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FSplineMeshInstanceData::EndTangent is not initialized properly. Module:Engine File:Classes/Components/SplineMeshComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: UInt32Property FStaticMeshVertexColorLODData::LODIndex is not initialized properly. Module:Engine File:Classes/Components/StaticMeshComponent.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FVirtualTextureBuildSettings::TileSize is not initialized properly. Module:Engine File:Classes/VT/VirtualTextureBuildSettings.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FVirtualTextureBuildSettings::TileBorderSize is not initialized properly. Module:Engine File:Classes/VT/VirtualTextureBuildSettings.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FVirtualTextureBuildSettings::bEnableCompressCrunch is not initialized properly. Module:Engine File:Classes/VT/VirtualTextureBuildSettings.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FVirtualTextureBuildSettings::bEnableCompressZlib is not initialized properly. Module:Engine File:Classes/VT/VirtualTextureBuildSettings.h
+[2022.01.24-15.35.35:148][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameStartCPUCompAcquireCPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameStartCPUFrameEndGPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameStartCPUFrameStartCPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameDurationCPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameDurationGPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameInternalDurationCPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FMagicLeapGraphicsClientPerformanceInfo::FrameInternalDurationGPUTimeMs is not initialized properly. Module:MagicLeap File:Public/MagicLeapHMDFunctionLibrary.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FNiagaraRibbonShapeCustomVertex::Position is not initialized properly. Module:Niagara File:Public/NiagaraRibbonRendererProperties.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FNiagaraRibbonShapeCustomVertex::Normal is not initialized properly. Module:Niagara File:Public/NiagaraRibbonRendererProperties.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FNiagaraRibbonShapeCustomVertex::TextureV is not initialized properly. Module:Niagara File:Public/NiagaraRibbonRendererProperties.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: BoolProperty FTutorialStage::bInvertPlatformTest is not initialized properly. Module:IntroTutorials File:Public/EditorTutorial.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FTutorialCategory::SortOrder is not initialized properly. Module:IntroTutorials File:Public/EditorTutorial.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FPinnedCommandListCommand::Type is not initialized properly. Module:PinnedCommandList File:Private/PinnedCommandListSettings.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPhysicsConvexData::NumVertices is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FPhysicsConvexData::NumFaces is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FPhysicsCapsuleData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FPhysicsCapsuleData::Length is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FPhysicsBoxData::Dimensions is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: FloatProperty FPhysicsSphereData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: EnumProperty FLODLevelGenerateSettings::TargetMode is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetPercentage is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetCount is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FCustomMeshTriangle::Vertex0 is not initialized properly. Module:CustomMeshComponent File:Classes/CustomMeshComponent.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FCustomMeshTriangle::Vertex1 is not initialized properly. Module:CustomMeshComponent File:Classes/CustomMeshComponent.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: StructProperty FCustomMeshTriangle::Vertex2 is not initialized properly. Module:CustomMeshComponent File:Classes/CustomMeshComponent.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: Int8Property FUAssetMeta::assetTier is not initialized properly. Module:MegascansPlugin File:Private/MSAssetImportData.h
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogClass: Display: 130 Uninitialized script struct members found including 0 object properties
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: ==================== IoStore Utils ====================
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\Cooked\Windows\FrontTest\Metadata\Crypto.json'
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: Container signing - DISABLED
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: Directory index - ENABLED
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: Using memory mapping alignment '16384'
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: Using compression block size '65536'
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: Using compression block alignment '2048'
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: Using max partition size '0'
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: Using command list file: 'C:\Users\Aversenq\AppData\Roaming\Unreal Engine\AutomationTool\Logs\F+IntereFX+UE_5.0EA\IoStoreCommands.txt'
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: Using target platform 'Windows'
+[2022.01.24-15.35.35:149][993]UATHelper: Packaging (Windows):   LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\Cooked\Windows'
+[2022.01.24-15.35.35:546][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Found '1345' files
+[2022.01.24-15.35.35:546][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Loaded Bulk Data manifest 'C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\Cooked\Windows/FrontTest/Metadata/BulkDataInfo.ubulkmanifest'
+[2022.01.24-15.35.35:546][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Creating container targets...
+[2022.01.24-15.35.35:546][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Parsing packages...
+[2022.01.24-15.35.35:546][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Reading package assets...
+[2022.01.24-15.35.35:546][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Parsing package assets...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Parsing 0/559: 'C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/Saved/Cooked/Windows/FrontTest/Content/StarterContent/Materials/M_Water_Ocean.uasset'
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Creating global script objects...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Creating global imports and exports...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Converting export map import indices...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Conforming localized packages...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Adding localized import packages...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Conforming localized imports...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Adding preload dependencies...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Building bundles...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Finalizing name maps...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Finalizing package headers...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Creating disk layout...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Ordered 0/559 packages using game open order
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Ordered 554/559 packages using cooker open order
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Ordered 5 packages using fallback bundle order
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Finalizing initial load...
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Serializing global meta data
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Saving global name map to container file
+[2022.01.24-15.35.35:547][994]UATHelper: Packaging (Windows):   LogIoStore: Display: Serializing container(s)...
+[2022.01.24-15.35.36:228][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Hashed, Compressed, Serialized: 790, 790, 790 / 790
+[2022.01.24-15.35.36:228][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Calculating stats...
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: --------------------------------------------------- IoDispatcher --------------------------------------------------------
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Container                           Flags   TOC Size (KB)     TOC Entries       Size (MB)           Compressed (MB)
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------------
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: global                            -/-/-/-            0.52               3            1.09                         -
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: FrontTest-Windows                 -/-/-/I          189.84             787          570.62                         -
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: TOTAL                                              190.37             790          571.71                         -
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) **
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Compression block padding:     0.55 MB
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: -------------------------------------------- Container Directory Index --------------------------------------------------
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Container                            Size (KB)
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: global                                    0.00
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: FrontTest-Windows                        33.57
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: ---------------------------------------------- Container Patch Report ---------------------------------------------------
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Container                         Total (count) Modified (count)    Added (count)    Modified (MB)       Added (MB)
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: global                                        3                0                0             0.00             0.00
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: FrontTest-Windows                           787                0              787             0.00           570.08
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: --------------------------------------------------- PackageStore (KB) ---------------------------------------------------
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Container                                Store Size             Packages            Localized
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------------
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: FrontTest                                        22                  559                    0
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: TOTAL                                            22                  559                    0
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: --------------------------------------------------- PackageHeader (KB) --------------------------------------------------
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Container                             Header       Summary         Graph     ImportMap     ExportMap       NameMap
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------------
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: FrontTest                                916            35            15            35           165           666
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: TOTAL                                    916            35            15            35           165           666
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:    132.89 MB UExp
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:      1.13 MB UAsset
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:      0.10 MB FPackageFileSummary
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:       559 Packages
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:       642 Imported package entries
+[2022.01.24-15.35.36:229][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:       327 Packages without imports
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:     26231 Name map entries
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:     10657 PreloadDependencies entries
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:      4507 ImportMap entries
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:      2352 ExportMap entries
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Input:       718 Public exports
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display:
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Output:      561 Export bundles
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Output:     4704 Export bundle entries
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Output:      642 Export bundle arcs
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Output:    17807 Public runtime script objects
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogIoStore: Display: Output:     1.08 MB InitialLoadData
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogInit: Display:
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogInit: Display: Success - 0 error(s), 0 warning(s)
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   LogInit: Display:
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   
+[2022.01.24-15.35.36:230][996]UATHelper: Packaging (Windows):   Execution of commandlet took:  1.08 seconds
+[2022.01.24-15.35.36:565][997]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.24-15.35.36:565][997]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.01.24-15.35.36:565][997]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.01.24-15.35.36:565][997]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.01.24-15.35.36:565][997]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: ================================================
+[2022.01.24-15.35.36:565][997]UATHelper: Packaging (Windows):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.01.24-15.35.36:565][997]UATHelper: Packaging (Windows):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.01.24-15.35.37:566][  0]UATHelper: Packaging (Windows): Took 8,0210259s to run UnrealEditor-Cmd.exe, ExitCode=0
+[2022.01.24-15.35.37:566][  0]UATHelper: Packaging (Windows): Copying NonUFSFiles to staging directory: C:\Users\Aversenq\Documents\GitHub\FrontTestUE5\Saved\StagedBuilds\Windows
+[2022.01.24-15.35.37:906][  1]UATHelper: Packaging (Windows): ********** STAGE COMMAND COMPLETED **********
+[2022.01.24-15.35.37:906][  1]UATHelper: Packaging (Windows): ********** PACKAGE COMMAND STARTED **********
+[2022.01.24-15.35.37:906][  1]UATHelper: Packaging (Windows): ********** PACKAGE COMMAND COMPLETED **********
+[2022.01.24-15.35.37:906][  1]UATHelper: Packaging (Windows): ********** ARCHIVE COMMAND STARTED **********
+[2022.01.24-15.35.37:906][  1]UATHelper: Packaging (Windows): Archiving to C:/Users/Aversenq/Documents/GitHub/PackageProject
+[2022.01.24-15.35.38:611][  3]UATHelper: Packaging (Windows): ********** ARCHIVE COMMAND COMPLETED **********
+[2022.01.24-15.35.38:612][  3]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
+[2022.01.24-15.35.38:612][  3]UATHelper: Packaging (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2022.01.24-15.39.41:660][  2]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.24-15.40.02:530][ 37]LogSlate: Window 'Open external link' being destroyed
+[2022.01.24-15.40.02:537][ 37]LogWindows: LaunchURL https://www.youtube.com/playlist?list=PLZlv_N0_O1gZS5HylO_368myr-Kg2ZLwb
+[2022.01.24-15.40.09:512][128]Cmd: DELETE
+[2022.01.24-15.40.09:512][128]Cmd: ACTOR DELETE
+[2022.01.24-15.40.09:525][128]LogEditorActor: Deleted Actor: DocumentationActor
+[2022.01.24-15.40.09:608][128]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2022.01.24-15.40.09:613][128]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2022.01.24-15.40.57:080][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.01.24-15.40.57:116][676]LogSavePackage: Moving 'C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/Saved/ThirdPersonExampleMap_Auto1FF47CF8E48DC7DD3FC33F09AA192CE6A.tmp' to 'C:/Users/Aversenq/Documents/GitHub/FrontTestUE5/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.01.24-15.40.57:117][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.098
+[2022.01.24-15.40.57:117][676]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
